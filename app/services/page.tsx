@@ -52,7 +52,7 @@ export default function ServicesPage() {
               <div className="grid gap-6 md:grid-cols-2">
                 <div className="relative aspect-video overflow-hidden rounded-xl md:aspect-auto md:h-full">
                   <Image
-                    src="/placeholder.svg?height=600&width=800"
+                    src="/cardio1.jpg"
                     alt="Gym facilities"
                     fill
                     className="object-cover"
@@ -135,7 +135,7 @@ export default function ServicesPage() {
               <div className="grid gap-6 md:grid-cols-2">
                 <div className="relative aspect-video overflow-hidden rounded-xl md:aspect-auto md:h-full">
                   <Image
-                    src="/placeholder.svg?height=600&width=800"
+                    src="/banner1.jpg"
                     alt="Swimming pool"
                     fill
                     className="object-cover"
@@ -217,7 +217,7 @@ export default function ServicesPage() {
               <div className="grid gap-6 md:grid-cols-2">
                 <div className="relative aspect-video overflow-hidden rounded-xl md:aspect-auto md:h-full">
                   <Image
-                    src="/placeholder.svg?height=600&width=800"
+                    src="/spa1.jpg"
                     alt="Spa facilities"
                     fill
                     className="object-cover"

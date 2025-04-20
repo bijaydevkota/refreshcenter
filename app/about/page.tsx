@@ -52,7 +52,7 @@ export default function AboutPage() {
               </div>
             </div>
             <div className="relative aspect-video overflow-hidden rounded-xl md:aspect-square">
-              <Image src="/placeholder.svg?height=800&width=800" alt="Our story" fill className="object-cover" />
+              <Image src="/swim1.jpg" alt="Our story" fill className="object-cover" />
             </div>
           </div>
         </div>
@@ -193,15 +193,15 @@ export default function AboutPage() {
           <div className="mx-auto mt-12 grid max-w-5xl gap-8 md:grid-cols-2">
             <div className="grid gap-4">
               <div className="relative aspect-video overflow-hidden rounded-xl">
-                <Image src="/placeholder.svg?height=600&width=800" alt="Gym facilities" fill className="object-cover" />
+                <Image src="/banner1.jpg" alt="Gym facilities" fill className="object-cover" />
               </div>
               <div className="grid grid-cols-2 gap-4">
                 <div className="relative aspect-square overflow-hidden rounded-xl">
-                  <Image src="/placeholder.svg?height=400&width=400" alt="Equipment" fill className="object-cover" />
+                  <Image src="/cardio1.jpg" alt="Equipment" fill className="object-cover" />
                 </div>
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/gym1.jpg"
                     alt="Training area"
                     fill
                     className="object-cover"
@@ -213,18 +213,18 @@ export default function AboutPage() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/placeholder.svg?height=400&width=400"
+                    src="/swim1.jpg"
                     alt="Swimming pool"
                     fill
                     className="object-cover"
                   />
                 </div>
                 <div className="relative aspect-square overflow-hidden rounded-xl">
-                  <Image src="/placeholder.svg?height=400&width=400" alt="Spa" fill className="object-cover" />
+                  <Image src="/gym2.jpg" alt="Spa" fill className="object-cover" />
                 </div>
               </div>
               <div className="relative aspect-video overflow-hidden rounded-xl">
-                <Image src="/placeholder.svg?height=600&width=800" alt="Locker rooms" fill className="object-cover" />
+                <Image src="/spa1.jpg" alt="Locker rooms" fill className="object-cover" />
               </div>
             </div>
           </div>
