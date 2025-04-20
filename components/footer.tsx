@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col space-y-4">
           <Link href="/" className="flex items-center space-x-2">
             <Dumbbell className="h-6 w-6 text-primary" />
-            <span className="text-xl font-bold">EliteFit</span>
+            <span className="text-xl font-bold">Refresh Center</span>
           </Link>
           <p className="text-sm text-muted-foreground">
             Premium fitness facilities with state-of-the-art gym equipment, Olympic swimming pool, and luxury spa
@@ -60,15 +60,15 @@ export default function Footer() {
           <div className="flex flex-col space-y-2">
             <div className="flex items-start space-x-2">
               <MapPin className="mt-0.5 h-4 w-4 text-primary" />
-              <span className="text-sm text-muted-foreground">123 Fitness Avenue, Wellness City, WC 12345</span>
+              <span className="text-sm text-muted-foreground">BoudhaNagar-06, Kathmandu, Nepal</span>
             </div>
             <div className="flex items-start space-x-2">
               <Phone className="mt-0.5 h-4 w-4 text-primary" />
-              <span className="text-sm text-muted-foreground">(123) 456-7890</span>
+              <span className="text-sm text-muted-foreground">9801010422</span>
             </div>
             <div className="flex items-start space-x-2">
               <Mail className="mt-0.5 h-4 w-4 text-primary" />
-              <span className="text-sm text-muted-foreground">info@fitnessclubelite.com</span>
+              <span className="text-sm text-muted-foreground">info@refreshcenter.com</span>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ export default function Footer() {
       <div className="container mt-8 border-t pt-8">
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} EliteFit. All rights reserved.
+            © {new Date().getFullYear()} RefreshCenter. All rights reserved.
           </p>
           <nav className="flex gap-4">
             <Link href="/terms" className="text-sm text-muted-foreground hover:text-primary">

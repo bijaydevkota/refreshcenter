@@ -9,7 +9,7 @@ import Footer from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Elite Fitness Club | Gym, Swimming Pool & Spa",
+  title: "Refresh Center | Gym, Swimming Pool & Spa",
   description:
     "Premium fitness facilities with state-of-the-art gym equipment, Olympic swimming pool, and luxury spa services.",
     generator: 'v0.dev'
